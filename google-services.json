@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657113366063",
+    "firebase_url": "https://mobile-sign-up-and-sign-in.firebaseio.com",
+    "project_id": "mobile-sign-up-and-sign-in",
+    "storage_bucket": "mobile-sign-up-and-sign-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657113366063:android:dfda20e4c2e64afd5490da",
+        "android_client_info": {
+          "package_name": "com.kodingindonesia.mycrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657113366063-clmc0s8j8splb87s602si3ibtq22gn5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObaVgToOcpVTIW8J1Fj8Toyxy___FZPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657113366063-clmc0s8j8splb87s602si3ibtq22gn5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
